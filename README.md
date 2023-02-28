@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 🔭 I’m currently working on Reseach with Housing price and Airbnb data to Analysis and Predict in investment perspective.
 
 ⚡ Fun fact: My first major is in Physical Therapy and My Biggiest hobby is Traveling. Therefore I am interested in dealing with not only medical data but also business data related to travle such as airline, hotel/b&b, restaurant, transportation and so on.
+
+👩‍🎓 - MSc in Data Analytics, National College of Ireland
+   - Hdip in Computing(Computer Engieneering), National College of Ireland
+   - BSc in Pysical Therapy, Yong In University 
