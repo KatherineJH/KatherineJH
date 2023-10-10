@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning Data Analytics and Science such as Statistical Analytics, Machine Learning, Deep Learning and Business Predictive Analytics in National College of Ireland.
+🌱 I currently finished a master's in Data Analytics including Data Science and Business Analytics. My main interests are Statistical Analytics with Data Visualisations, Machine Learning, Deep Learning and Business Predictive Analytics.
 
-🔭 I’m currently working on Reseach with Housing price and Airbnb data to Analysis and Predict in investment perspective.
+🔭 My thesis project is about Enemble machine learning techniques with optimisation, Airbnb data in Italy. To predict profitability from an investment perspective, different and new feature engineering and selections are applied. 
 
-⚡ Fun fact: My first major is in Physical Therapy and My Biggiest hobby is Traveling. Therefore I am interested in dealing with not only medical data but also business data related to travle such as airline, hotel/b&b, restaurant, transportation and so on.
+⚡ Fun fact: My first major is in Physical Therapy and My Biggest hobby is Traveling. Therefore I am interested in dealing with not only medical data but also business data related to travel such as airline, hotel/b&b, restaurant, transportation and so on.
 
 👩‍🎓 Degrees
    - MSc in Data Analytics, National College of Ireland
-   - Hdip in Computing(Computer Engieneering), National College of Ireland
-   - BSc in Pysical Therapy, Yong In University 
+   - Hdip in Computing(Computer Engineering), National College of Ireland
+   - BSc in Physical Therapy, Yong In University 
